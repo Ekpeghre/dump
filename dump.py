@@ -2,10 +2,6 @@
 import os, time, platform
 os.system("cd $HOME/")
 try:
-    import futures
-except ImportError:
-    os.system("pip2 install futures")
-try:
     import lolcat
 except ImportError:
     os.system("pip2 install lolcat")
