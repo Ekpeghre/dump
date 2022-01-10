@@ -1,2 +1,2 @@
-import dump64
-dump64.fb_menu()
+import dump32
+dump32.fb_menu()
